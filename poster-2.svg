@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 960">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#242424"/><stop offset=".55" stop-color="#111111"/><stop offset="1" stop-color="#5d4810"/></linearGradient></defs>
+  <rect width="540" height="960" fill="url(#g)"/>
+  <circle cx="270" cy="350" r="115" fill="#fff" opacity=".95"/>
+  <text x="270" y="365" fill="#111" font-family="Arial" font-size="130" font-weight="800" text-anchor="middle">S</text>
+  <text x="48" y="110" fill="#e6b31e" font-family="Arial" font-size="25" font-weight="800" letter-spacing="5">SIKA STUDIO</text>
+  <text x="48" y="690" fill="#fff" font-family="Arial" font-size="57" font-weight="800">Votre produit.</text>
+  <text x="48" y="742" fill="#ddd" font-family="Arial" font-size="28">Exemple UGC IA</text>
+  <rect x="48" y="820" width="444" height="8" rx="4" fill="#fff" opacity=".7"/>
+</svg>
