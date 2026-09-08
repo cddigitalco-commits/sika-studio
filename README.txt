@@ -1,7 +1,10 @@
-REMPLACEZ les fichiers d'exemple par vos 3 vraies vidéos MP4 :
-video-1.mp4
-video-2.mp4
-video-3.mp4
+SIKA STUDIO — VERSION FINALE
 
-Gardez ces noms pour que le site les affiche automatiquement.
-Format conseillé : vertical 9:16, MP4, taille raisonnable pour un chargement rapide.
+Fichiers principaux : index.html, style.css, script.js.
+Logo : assets/logo-transparent.png.
+Portfolio : assets/videos/video-1.mp4, video-2.mp4, video-3.mp4.
+
+Pour GitHub Pages : téléversez le contenu du dossier sika-studio-v4 dans le dépôt, en gardant la structure des dossiers.
+Ne téléversez pas uniquement le ZIP : le site doit avoir index.html à la racine du dépôt.
+
+Le formulaire redirige directement vers WhatsApp au +229 57 73 33 65 avec un message prérempli.
